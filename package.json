@@ -1,0 +1,14 @@
+{
+  "name": "rxjs-test-marble-error",
+  "version": "0.0.1",
+  "description": "rxjs test scheduler output in human readable Marble format",
+  "main": "src/index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
